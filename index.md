@@ -4,14 +4,14 @@ layout: cover
 <body>
      <section class="intro">
           <div class="inner">
-               <div class="content">
+               <div class="container">
                     <img src="{{ site.baseurl }}/img/BIB-logo-white.svg" alt="Blue Iris Books">
 
-                    <h4>Good books. Great designs.</h4>
+                    <h5>Good books. Great designs.</h5>
 
 
                </div>
-               <div class="content pad-top">
+               <div class="container pad-top">
                     <hr>
                     <nav class="">
                          {% for link in site.data.navigation %}

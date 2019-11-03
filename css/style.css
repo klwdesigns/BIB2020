@@ -1,3 +1,57 @@
+.nav-container {
+     width: 100%;
+     padding: 1rem;
+     border-bottom: 2px solid #D3DBE4;
+     background: #FFF;
+     height: 90px;
+     margin-bottom: 1.5em;
+}
+
+.nav-container a {
+     text-decoration: none;
+     color: rgb(27, 29, 148);
+}
+
+.logo {
+     font-family: grand-central, serif;
+     font-style: normal;
+     font-weight: 700;
+     text-align: center;
+     text-transform: uppercase;
+     font-size: 2.6rem;
+     color: rgb(27, 29, 148);
+}
+
+
+.nav-top {
+     text-align: center;
+}
+
+.nav-item-top {
+     text-transform: uppercase;
+     font-size: 1.4rem;
+     text-decoration: none;
+     padding-left: .8rem;
+     padding-right: .8rem;
+     color: #D3DBE4;
+}
+
+.nav-top a {
+     color: #666c73;
+}
+
+.page-copy {
+     max-width: 600px;
+}
+
+
+
 footer {
-     padding: 20px;
+     padding: 1em;
+     text-align: center;
+     text-transform: uppercase;
+     font-size: .7em;
+     color: #FFF;
+     background-color: #2d2e2e;
+     margin-top: auto;
 }

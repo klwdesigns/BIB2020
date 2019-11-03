@@ -1,0 +1,14 @@
+<div class="container nav-container">
+     <div class="row">
+          <div class="logo">
+               <a href="{{ site.baseurl }}">Blue Iris Books</a>
+          </div>
+     </div>
+     <div class="row">
+          <nav class="nav-top">
+               {% for link in site.data.navigation %}
+               <a class="nav-item-top" href="{{ link.url }}">{{ link.title }}</a>
+               {% endfor %}
+          </nav>
+     </div>
+</div>
