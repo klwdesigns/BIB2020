@@ -1,0 +1,52 @@
+html, body {
+     margin: 0;
+     padding: 0;
+     height: 100%;
+     width: 100%;
+}
+.intro {
+     height: 100%;
+     width: 100%;
+     margin: auto;
+     background-color: rgb(27, 29, 148);
+     display: table;
+     top: 0;
+}
+.intro  .inner {
+     display: table-cell;
+     vertical-align: middle;
+     width: 100%;
+     max-width: none;
+}
+.content {
+     max-width: 500px;
+     margin: 0 auto;
+     text-align: center;
+}
+.content h4 {
+     color: white;
+     font-weight: 100;
+}
+
+.nav-item {
+     text-transform: uppercase;
+     font-size: 20px;
+     text-decoration: none;
+     padding-right: 1.5rem;
+}
+
+
+a {
+     color: white;
+}
+
+.pad-top {
+     padding-top: 100px;
+}
+
+footer {
+     padding: 20px;
+     text-align: center;
+     text-transform: uppercase;
+     font-size: 12px;
+}
