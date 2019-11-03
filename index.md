@@ -5,7 +5,7 @@ layout: cover
      <section class="intro">
           <div class="inner">
                <div class="content">
-                    <img src="{{ site.baseurl }}/img/BIB-logo.svg" alt="Blue Iris Books">
+                    <img src="{{ site.baseurl }}/img/BIB-logo-white.svg" alt="Blue Iris Books">
 
                     <h4>Good books. Great designs.</h4>
 
