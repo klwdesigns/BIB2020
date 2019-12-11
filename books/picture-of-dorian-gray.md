@@ -13,7 +13,7 @@ Dorian Gray is a beautiful, innocent young man who falls prey to the seductive w
 
 **Details:**<br>
 
-362 pages<br>
+295 pages<br>
 Formats: Paperback/E-book<br>
 Published: 2017<br>
 ISBN: 978-0988580503 (Paperback)<br>
