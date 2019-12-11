@@ -5,7 +5,9 @@ layout: page
 
 ![The Picture of Dorian Gray](/img/Dorian-Gray-300x300.jpg)
 
-***by Oscar Wilde***
+***by Oscar Wilde***<br>
+
+***Introduction by Eric Schaefer, PhD***<br>
 
 **Summary:**<br>
 
