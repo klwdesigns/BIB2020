@@ -21,6 +21,8 @@ Published: 2017<br>
 ISBN: 978-0988580503 (Paperback)<br>
 ISBN: 978-0988580541 (E-Book)<br>
 
-**Buy now from:**<br>
+**Buy now from Amazon:**<br>
 
-<button>[Amazon](https://www.amazon.com/dp/0988580500)</button>
+<button>[Paperback](https://www.amazon.com/dp/0988580500)</button>
+
+<button>[Kindle](https://www.amazon.com/dp/B0786W25TW)</button>
