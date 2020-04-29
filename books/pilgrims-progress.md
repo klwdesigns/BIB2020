@@ -23,4 +23,4 @@ In _The Pilgrim’s Progress_, Bunyan has pictured for readers the journey of a 
 350 pages
 Formats: Paperback/E-book
 
-Publish date: December 2019
+Publish date: May 2020
